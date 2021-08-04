@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishabh-da-1
-- 👀 I’m interested in AI , operating system's ,networking,embeded systems . 
-- favourate language C++ , java. 
-- 🌱 I’m currently learning DSA java and solving questions
+- 👀 I’m interested in AI , operating system's ,blockchain,networking,embeded systems . 
+- favourate language C++ , java , golang . 
+- 🌱 I’m currently learning DSA, golang and solving questions
 - not intrested in Frontend dev , android dev,data science.
 - discord rishabh.cpp#6925
 
